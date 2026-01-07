@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/browser-tetris-196103-196119/tetris_frontend"
+}
